@@ -26,7 +26,7 @@
 	<dependency>
 	    <groupId>com.github.EdwardRaff</groupId>
 	    <artifactId>JSAT</artifactId>
-	    <version>94a2be9a2d</version>
+	    <version>0.0.9</version>
 	</dependency>
         <dependency>
             <groupId>com.clearspring.analytics</groupId>
